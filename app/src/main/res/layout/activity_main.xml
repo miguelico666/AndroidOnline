@@ -52,7 +52,8 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="50"
-            android:scaleType="centerCrop" />
+            android:scaleType="centerCrop"
+            tools:srcCompat="@drawable/terminator" />
 
         <TextView
             android:id="@+id/textView"
@@ -98,7 +99,7 @@
         android:layout_height="0dp"
         android:layout_weight="10"
         android:orientation="horizontal"
-        android:background="#E91E63"
+        android:background="#A19B1B"
         >
 
         <Button
