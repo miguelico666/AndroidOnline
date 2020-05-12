@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
                 parametros.put("Contrasena",edtPassword.getText().toString() );
 
                 TareaSegundoPlano tarea = new TareaSegundoPlano(parametros);
-                tarea.execute("http://192.168.1.163:8888/justeat/loginGroupon.php");
+                tarea.execute("http://192.168.1.163:8888/justeat/XXX.php");
             }
         });
     }
