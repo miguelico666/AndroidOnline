@@ -99,7 +99,7 @@
         android:layout_height="0dp"
         android:layout_weight="10"
         android:orientation="horizontal"
-        android:background="#A19B1B"
+        android:background="#9A941E"
         >
 
         <Button
